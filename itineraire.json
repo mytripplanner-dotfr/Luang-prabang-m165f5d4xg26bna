@@ -1,0 +1,425 @@
+{
+  "pays": "Laos",
+  "drapeau": "🇱🇦",
+  "symbole": "🐘",
+  "titre": "L'Éveil du Mékong : 18 Jours à Luang Prabang",
+  "budget_total": "4300€",
+  "duree": "18 jours",
+  "temps_vol": "35h avec escales depuis Guichard, Haiti",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sereine à Luang Prabang",
+      "legende": "Après un long voyage, cette première journée est dédiée à l'acclimatation et à une douce immersion dans l'atmosphère paisible de Luang Prabang. Laissez-vous envelopper par la quiétude du Mékong et les premières impressions de cette ville classée au patrimoine mondial de l'UNESCO. Une balade légère vous permettra de prendre vos marques et d'apprécier la beauté des lieux sans précipitation.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🛬 <strong>Arrivée et installation</strong> : Prenez le temps de vous installer confortablement dans votre hôtel 3 étoiles, un havre de paix pour les 17 prochaines nuits. Profitez de ce moment pour vous rafraîchir et vous détendre après le vol.",
+        "🚶‍♂️ <strong>Balade le long du Mékong</strong> : Flânez sur les rives du majestueux Mékong, observez la vie locale et les bateaux traditionnels. C'est une introduction parfaite à l'ambiance sereine de la ville au coucher du soleil."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil d'arrivée",
+          "texte": "Le trajet de l'aéroport au centre-ville est court (environ 15-20 min). Des taxis ou tuk-tuks sont facilement disponibles."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌅",
+      "titre": "Traditions matinales et patrimoine royal",
+      "legende": "Débutez la journée par une expérience spirituelle unique, la cérémonie des aumônes, avant de vous immerger dans l'effervescence du marché matinal. L'après-midi sera consacrée à la découverte de l'histoire royale du Laos à travers l'ancien Palais Royal, transformé en musée, offrant un aperçu fascinant de la culture et de l'héritage du pays.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🙏 <strong>Cérémonie des aumônes (Tak Bat)</strong> : Assistez au rituel quotidien des moines collectant leurs aumônes au lever du soleil. Observez avec respect et discrétion cette tradition ancestrale, un moment fort de la vie locale.",
+        "🛍️ <strong>Marché matinal de Luang Prabang</strong> : Plongez dans l'ambiance vibrante de ce marché où les habitants achètent produits frais, épices et artisanat. C'est une excellente occasion de goûter aux saveurs locales et d'observer la vie quotidienne.",
+        "👑 <strong>Visite du Palais Royal (Musée National)</strong> : Explorez l'ancienne résidence royale, un mélange d'architecture laotienne et française. Admirez le Phra Bang, la statue de Bouddha la plus sacrée du Laos, et les trésors royaux."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect des traditions",
+          "texte": "Pour la cérémonie des aumônes, habillez-vous modestement (épaules et genoux couverts) et maintenez une distance respectueuse avec les moines."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏯",
+      "titre": "Trésors architecturaux et culturels",
+      "legende": "Cette journée vous invite à explorer les joyaux architecturaux et spirituels de Luang Prabang. Le Wat Xieng Thong, emblème de la ville, vous éblouira par sa finesse. Ensuite, le Centre d'Art et d'Ethnologie vous offrira une compréhension plus profonde des diverses ethnies du Laos, enrichissant votre perspective sur la richesse culturelle du pays.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "✨ <strong>Découverte du Wat Xieng Thong</strong> : Visitez ce magnifique temple, l'un des plus importants et des plus anciens de Luang Prabang. Admirez son architecture unique, ses mosaïques scintillantes et son \"arbre de vie\" doré.",
+        "🎨 <strong>Exploration du Centre d'Art et d'Ethnologie (TAEC)</strong> : Plongez dans la diversité culturelle du Laos à travers les expositions de ce musée. Il met en lumière les traditions, les costumes et l'artisanat des groupes ethniques minoritaires."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Immersion culturelle",
+          "texte": "Le TAEC propose souvent des ateliers ou des démonstrations d'artisanat. Renseignez-vous sur place pour une expérience interactive."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛰️",
+      "titre": "Panorama sacré et ruelles cachées",
+      "legende": "Montez au sommet du Mont Phousi pour une vue imprenable sur la ville et les méandres du Mékong, un spectacle particulièrement saisissant au coucher du soleil. Le reste de la journée sera consacré à l'exploration des charmantes ruelles de Luang Prabang, révélant des boutiques d'artisanat, des cafés pittoresques et des temples moins connus, loin de l'agitation.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🌅 <strong>Ascension du Mont Phousi</strong> : Gravissez les 328 marches pour atteindre le sommet du Mont Phousi et profiter d'un panorama à 360 degrés sur Luang Prabang et ses environs. Le coucher de soleil y est légendaire.",
+        "🚶‍♀️ <strong>Balade dans les ruelles historiques</strong> : Perdez-vous volontairement dans les petites rues adjacentes aux artères principales. Découvrez des maisons coloniales bien conservées, des temples discrets et des ateliers d'artisans locaux."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Préparation à l'ascension",
+          "texte": "Portez des chaussures confortables pour la montée du Mont Phousi. Prévoyez de l'eau et arrivez un peu en avance pour avoir une bonne place au coucher du soleil."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛶",
+      "titre": "Croisière mystique sur le Mékong",
+      "legende": "Embarquez pour une croisière paisible sur le Mékong, remontant le fleuve jusqu'aux mystérieuses grottes de Pak Ou. Ces sanctuaires naturels, remplis de milliers de statues de Bouddha, offrent une expérience spirituelle unique. Le voyage en bateau est une occasion de contempler les paysages fluviaux et la vie le long des rives, loin de l'agitation urbaine.",
+      "lieu": "Luang Prabang et Pak Ou",
+      "activites": [
+        "🚤 <strong>Croisière vers les grottes de Pak Ou</strong> : Naviguez sur le Mékong à bord d'un bateau traditionnel pour atteindre les grottes sacrées de Pak Ou. Ces deux grottes abritent des milliers de statuettes de Bouddha laissées par les pèlerins au fil des siècles.",
+        "🗿 <strong>Exploration des grottes de Pak Ou</strong> : Découvrez les deux grottes, Tham Ting (inférieure) et Tham Phoum (supérieure), et laissez-vous imprégner par l'atmosphère spirituelle de ce lieu unique. Admirez la diversité des statues, des plus petites aux plus imposantes."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Protection solaire",
+          "texte": "La croisière sur le Mékong peut être ensoleillée. N'oubliez pas chapeau, lunettes de soleil et crème solaire."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "💦",
+      "titre": "Émerveillement aux chutes de Kuang Si",
+      "legende": "Évadez-vous dans la nature luxuriante pour une journée aux magnifiques chutes de Kuang Si. Leurs eaux turquoise en cascades successives invitent à la baignade et à la détente. Profitez-en pour visiter le centre de sauvetage des ours à proximité, une initiative louable pour la protection de la faune locale, ajoutant une dimension éthique à votre excursion.",
+      "lieu": "Chutes de Kuang Si",
+      "activites": [
+        "🏞️ <strong>Baignade et détente aux chutes de Kuang Si</strong> : Passez la journée à explorer les différentes cascades et piscines naturelles des chutes de Kuang Si. Les eaux turquoise sont parfaites pour une baignade rafraîchissante dans un cadre idyllique.",
+        "🐻 <strong>Visite du centre de sauvetage des ours (Tat Kuang Si Bear Rescue Centre)</strong> : Situé à l'entrée des chutes, ce centre recueille et soigne des ours noirs d'Asie victimes de braconnage. C'est une belle occasion d'en apprendre davantage sur la conservation de ces animaux."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "👙",
+          "titre": "Prévoir maillot de bain",
+          "texte": "N'oubliez pas votre maillot de bain et une serviette pour profiter pleinement des piscines naturelles des chutes de Kuang Si."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🧑‍🍳",
+      "titre": "Saveurs laotiennes et marché nocturne",
+      "legende": "Plongez au cœur de la gastronomie laotienne avec un cours de cuisine qui vous révélera les secrets des plats locaux. L'après-midi sera libre pour vous détendre ou explorer à votre guise, avant de vous immerger dans l'ambiance féerique du marché de nuit. C'est l'endroit idéal pour dénicher des souvenirs artisanaux et savourer des spécialités de street food.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🍲 <strong>Cours de cuisine laotienne</strong> : Apprenez à préparer des plats traditionnels laotiens avec des ingrédients frais du marché. C'est une expérience interactive et délicieuse qui vous permettra de ramener un peu du Laos chez vous.",
+        "🌙 <strong>Flânerie au marché de nuit</strong> : En soirée, le marché de nuit s'anime le long de la rue principale. C'est l'endroit parfait pour acheter des souvenirs artisanaux, des textiles et des bijoux, ou simplement pour profiter de l'ambiance."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Cuisine laotienne",
+          "texte": "La cuisine laotienne est souvent épicée. N'hésitez pas à demander \"mai phet\" (pas épicé) si vous êtes sensible."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏘️",
+      "titre": "Rencontre avec les ethnies locales",
+      "legende": "Cette journée est dédiée à la découverte des cultures des minorités ethniques du Laos. Une visite dans un village Hmong ou Khmu vous offrira un aperçu authentique de leur mode de vie, de leurs traditions et de leur artisanat. C'est une opportunité précieuse d'échanger et de comprendre la diversité humaine qui compose le pays, loin des sentiers battus.",
+      "lieu": "Environs de Luang Prabang",
+      "activites": [
+        "🤝 <strong>Visite d'un village Hmong ou Khmu</strong> : Participez à une excursion organisée pour visiter un village traditionnel. Rencontrez les habitants, découvrez leurs coutumes, leurs maisons et leur artisanat unique, comme le tissage ou la broderie.",
+        "🌾 <strong>Découverte de l'artisanat local</strong> : Observez les artisans à l'œuvre et apprenez-en plus sur les techniques ancestrales. C'est une belle occasion d'acheter des produits directement auprès des producteurs, soutenant ainsi l'économie locale."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🗣️",
+          "titre": "Respect des cultures",
+          "texte": "Demandez toujours la permission avant de prendre des photos des habitants, surtout dans les villages reculés."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🚲",
+      "titre": "Journée libre ou exploration à vélo",
+      "legende": "Profitez de cette journée pour vous détendre, revisiter un lieu coup de cœur ou explorer Luang Prabang à votre rythme. Louer un vélo est une excellente option pour découvrir les environs, les rizières verdoyantes et les petits temples cachés. C'est une journée flexible, conçue pour s'adapter à vos envies et vous permettre de savourer la douceur de vivre laotienne.",
+      "lieu": "Luang Prabang et environs",
+      "activites": [
+        "🚴‍♀️ <strong>Exploration des environs à vélo</strong> : Louez un vélo et partez à la découverte des paysages bucoliques autour de Luang Prabang. Pédalez à travers les rizières, les petits villages et le long du Mékong pour une perspective différente de la région.",
+        "🧘‍♀️ <strong>Détente et temps libre</strong> : Profitez de cette journée pour vous reposer, lire un livre au bord du Mékong, ou vous offrir un massage traditionnel laotien. C'est l'occasion de recharger vos batteries."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🚲",
+          "titre": "Location de vélo",
+          "texte": "De nombreux hôtels et boutiques proposent la location de vélos pour quelques euros par jour. Vérifiez l'état des freins avant de partir."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🐘",
+      "titre": "Rencontre éthique avec les éléphants",
+      "legende": "Passez une journée mémorable au sein d'un sanctuaire éthique pour éléphants, où vous pourrez observer ces majestueux animaux dans un environnement respectueux de leur bien-être. Loin des balades à dos d'éléphant, cette expérience met l'accent sur la conservation et l'éducation, vous permettant d'interagir avec eux de manière responsable et enrichissante. Une immersion profonde dans la vie de ces géants doux.",
+      "lieu": "Sanctuaire d'éléphants (ex: Elephant Village)",
+      "activites": [
+        "🐘 <strong>Visite d'un sanctuaire d'éléphants éthique</strong> : Participez à une journée au Elephant Village ou un sanctuaire similaire. Apprenez-en sur la conservation des éléphants, leur histoire et leur comportement. Vous pourrez les nourrir et les baigner dans la rivière.",
+        "🌿 <strong>Immersion dans la nature</strong> : Profitez du cadre naturel du sanctuaire, souvent niché dans la jungle. C'est une journée complète qui inclut généralement le transport et le déjeuner, offrant une pause bienvenue de l'agitation de la ville."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "💚",
+          "titre": "Tourisme responsable",
+          "texte": "Choisissez toujours des sanctuaires d'éléphants qui privilégient le bien-être animal et ne proposent pas de balades à dos d'éléphant."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🏛️",
+      "titre": "Temples anciens et stupas sacrés",
+      "legende": "Cette journée est dédiée à la découverte des temples moins fréquentés mais tout aussi fascinants de Luang Prabang. Le Wat Visoun et son stupa unique, That Makmo, ainsi que le Wat Aham, vous plongeront dans l'histoire et la spiritualité bouddhiste de la ville. C'est une occasion d'apprécier la diversité architecturale et la sérénité de ces lieux de culte, loin des foules.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🏯 <strong>Visite du Wat Visoun et That Makmo</strong> : Explorez le Wat Visoun, l'un des plus anciens temples de Luang Prabang, et son stupa unique en forme de pastèque, That Makmo. Admirez l'architecture et les statues de Bouddha.",
+        "🙏 <strong>Découverte du Wat Aham</strong> : Situé à côté du Wat Visoun, le Wat Aham est un temple plus petit mais chargé d'histoire, abritant deux grands arbres sacrés. C'est un lieu paisible propice à la contemplation."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Accessibilité",
+          "texte": "Ces temples sont facilement accessibles à pied depuis le centre-ville, permettant une agréable promenade."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🧘",
+      "titre": "Cérémonie Baci et sérénité",
+      "legende": "Si l'occasion se présente, participez à une cérémonie Baci, un rituel laotien de bienvenue et de bonne fortune, pour une immersion culturelle profonde. L'après-midi sera propice à la détente et à la méditation, peut-être en participant à une séance de yoga ou en profitant d'un moment de calme au bord du Mékong. Une journée pour se connecter à soi et à la culture locale.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "✨ <strong>Participation à une cérémonie Baci</strong> : Si possible, assistez ou participez à une cérémonie Baci, un rituel traditionnel laotien pour lier les âmes et souhaiter bonne chance. C'est une expérience culturelle authentique et émouvante.",
+        "🧘‍♀️ <strong>Séance de méditation ou yoga</strong> : Profitez de l'atmosphère paisible de Luang Prabang pour une séance de méditation ou de yoga. Plusieurs centres proposent des cours adaptés à tous les niveaux, offrant un moment de sérénité."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Cérémonie Baci",
+          "texte": "Les cérémonies Baci sont souvent organisées pour des événements spéciaux ou des groupes. Renseignez-vous auprès de votre hôtel ou d'agences locales."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🌳",
+      "titre": "Nature et paysages verdoyants",
+      "legende": "Échappez-vous de la ville pour une journée au cœur de la nature laotienne. Selon la saison, une visite à la cascade de Tad Sae offre une alternative charmante aux chutes de Kuang Si, avec ses bassins en terrasses. Alternativement, une exploration des rizières environnantes vous plongera dans la beauté rurale du Laos, offrant des paysages apaisants et des rencontres authentiques.",
+      "lieu": "Environs de Luang Prabang",
+      "activites": [
+        "💦 <strong>Excursion à la cascade de Tad Sae (saison des pluies)</strong> : Accessible en bateau, Tad Sae est une série de cascades en terrasses où l'on peut se baigner. Elle est particulièrement belle pendant la saison des pluies (d'août à novembre) quand le débit est fort.",
+        "🌾 <strong>Balade dans les rizières et villages</strong> : Partez à la découverte des paysages de rizières verdoyantes autour de Luang Prabang. C'est une excellente occasion de voir la vie rurale laotienne et de profiter de la tranquillité de la campagne."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🌦️",
+          "titre": "Saisonnalité",
+          "texte": "La cascade de Tad Sae est plus impressionnante pendant la saison des pluies. En saison sèche, son débit peut être faible."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "💆‍♀️",
+      "titre": "Détente et bien-être au bord du Mékong",
+      "legende": "Après plusieurs jours d'exploration, cette journée est dédiée à la relaxation et au bien-être. Profitez de l'ambiance apaisante du Mékong pour vous détendre dans un café au bord de l'eau, ou offrez-vous un massage traditionnel laotien. C'est l'occasion de prendre soin de vous et de savourer les derniers moments de quiétude avant de reprendre le rythme des découvertes.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "☕ <strong>Café et lecture au bord du Mékong</strong> : Installez-vous dans l'un des nombreux cafés le long du Mékong. Savourez une boisson fraîche ou un café laotien tout en observant le fleuve et la vie qui s'y déroule, un moment de pure sérénité.",
+        "💆‍♀️ <strong>Massage traditionnel laotien</strong> : Offrez-vous un massage relaxant pour soulager les tensions et revitaliser votre corps. Les massages laotiens sont réputés pour leurs bienfaits et sont une excellente façon de se détendre."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Prix des massages",
+          "texte": "Les massages sont très abordables à Luang Prabang, comptez environ 5-10€ pour une heure."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🖼️",
+      "titre": "Art, culture et péninsule",
+      "legende": "Explorez la péninsule de Luang Prabang, le cœur historique de la ville, en vous attardant sur ses galeries d'art, ses boutiques de créateurs et ses charmants cafés. C'est une journée pour apprécier l'esthétique locale, dénicher des pièces uniques et s'imprégner de l'atmosphère artistique qui règne dans cette partie de la ville. Une balade enrichissante pour les amateurs d'art et de culture.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🚶‍♂️ <strong>Découverte de la péninsule</strong> : Parcourez la péninsule, délimitée par le Mékong et la rivière Nam Khan. C'est là que se concentrent la plupart des temples, des maisons coloniales et des boutiques d'artisanat.",
+        "🖼️ <strong>Visite de galeries d'art et boutiques de créateurs</strong> : Explorez les nombreuses galeries d'art et boutiques qui mettent en valeur l'artisanat laotien contemporain et traditionnel. C'est l'occasion de trouver des souvenirs uniques et de soutenir les artistes locaux."
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs authentiques",
+          "texte": "Privilégiez les boutiques qui travaillent directement avec les artisans pour des souvenirs éthiques et de qualité."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🔄",
+      "titre": "Revisiter ou explorer de nouveaux horizons",
+      "legende": "Cette journée est une opportunité de revisiter un lieu qui vous a particulièrement marqué ou d'explorer un quartier que vous n'avez pas encore eu le temps de découvrir. Que ce soit un temple favori, un marché animé ou un coin de nature paisible, c'est votre chance de personnaliser votre fin de séjour. Laissez-vous guider par vos envies pour une dernière immersion profonde.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "💖 <strong>Revisiter un lieu coup de cœur</strong> : Retournez à votre temple préféré, au marché matinal pour une dernière dégustation, ou au Mont Phousi pour un autre coucher de soleil. Profitez de ces moments pour imprimer ces souvenirs dans votre esprit.",
+        "🗺️ <strong>Exploration de nouveaux quartiers</strong> : Aventurez-vous dans des zones moins touristiques de Luang Prabang. Découvrez des temples locaux, des écoles ou des quartiers résidentiels pour une perspective plus authentique de la vie quotidienne."
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Immortaliser les souvenirs",
+          "texte": "N'oubliez pas votre appareil photo pour capturer les derniers instants de votre voyage dans cette ville magique."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🛍️",
+      "titre": "Derniers achats et préparation au départ",
+      "legende": "Profitez de cette avant-dernière journée pour effectuer vos derniers achats de souvenirs, flâner une dernière fois dans les rues de Luang Prabang et vous imprégner de son atmosphère unique. C'est aussi le moment de préparer tranquillement votre départ, de faire vos valises et de savourer un dernier dîner mémorable au bord du Mékong, en repensant aux merveilles découvertes.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🎁 <strong>Derniers achats de souvenirs</strong> : Faites vos emplettes finales au marché de nuit ou dans les boutiques d'artisanat pour ramener des cadeaux et des souvenirs de votre voyage au Laos.",
+        "📦 <strong>Préparation des bagages et dîner d'adieu</strong> : Commencez à organiser vos affaires pour le départ. En soirée, offrez-vous un dernier dîner spécial dans l'un des restaurants au bord du Mékong, pour savourer les saveurs laotiennes une dernière fois."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Négociation",
+          "texte": "Au marché de nuit, la négociation est courante mais faites-le toujours avec le sourire et respect."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🛫",
+      "titre": "Départ de Luang Prabang",
+      "legende": "C'est le moment de dire au revoir à Luang Prabang, cette ville envoûtante qui vous a offert tant de découvertes et de moments de sérénité. Après un dernier petit-déjeuner laotien, vous serez transféré à l'aéroport, emportant avec vous des souvenirs impérissables du Laos et de son peuple chaleureux. Un voyage riche en émotions et en apprentissages s'achève.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "🍳 <strong>Dernier petit-déjeuner laotien</strong> : Profitez d'un dernier repas typique avant de quitter la ville. Goûtez une dernière fois au \"Khao Piak Sen\" (soupe de nouilles) ou aux fruits frais.",
+        "✈️ <strong>Transfert à l'aéroport et départ</strong> : Selon l'heure de votre vol, un transfert sera organisé pour vous emmener à l'aéroport international de Luang Prabang (LPQ) pour votre vol retour."
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'enregistrement, surtout pour un vol international."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2500€/pers (vol aller-retour en classe économique depuis Guichard, Haiti avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "270€/pers (tuk-tuks, bateaux, excursions locales sur 18 jours)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "450€/pers (environ 25€/jour pour 3 repas de type moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "765€/pers (17 nuits en hôtel 3 étoiles, environ 45€/nuit)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "270€/pers (entrées sites, cours de cuisine, sanctuaire éléphants, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de novembre à mars.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population laotienne est majoritairement bouddhiste et très respectueuse. Un sourire et quelques mots de lao (sabaidee pour bonjour) sont toujours appréciés.",
+      "symbole": "🤝"
+    },
+    {
+      "titre": "Le Laos est un pays d'Asie du Sud-Est, connu pour ses paysages montagneux, son architecture coloniale française, ses monastères bouddhistes et sa culture sereine. La monnaie est le Kip laotien (LAK).",
+      "symbole": "🇱🇦"
+    },
+    {
+      "titre": "Info insolite : Luang Prabang est l'une des rares villes au monde où la cérémonie des aumônes matinales (Tak Bat) est encore pratiquée quotidiennement et de manière aussi visible.",
+      "symbole": "✨"
+    },
+    {
+      "titre": "Le pourboire n'est pas obligatoire mais est apprécié dans les restaurants et pour les guides. N'oubliez pas de retirer vos chaussures avant d'entrer dans un temple ou une maison.",
+      "symbole": "💡"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur le Laos",
+      "titre": "Tourism Laos",
+      "url": "https://www.tourismlaos.org/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo pour Luang Prabang",
+      "titre": "Météo Luang Prabang",
+      "url": "https://www.accuweather.com/fr/la/luang-prabang/203874/weather-forecast/203874",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur le patrimoine mondial de l'UNESCO à Luang Prabang",
+      "titre": "UNESCO Luang Prabang",
+      "url": "https://whc.unesco.org/fr/list/479/",
+      "symbole": "🏛️"
+    }
+  ]
+}
